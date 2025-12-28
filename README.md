@@ -4,7 +4,7 @@ A pixel-accurate, responsive NFT landing page built using React + Vite + Tailwin
 
 🔗 Live Preview
 
-👉 Live Demo: (Add your deployed Vercel / Netlify link here)
+👉 Live Demo: https://carboncrunch-ui-assignment.vercel.app
 
 📌 Assignment Objective
 
